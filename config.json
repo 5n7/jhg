@@ -1,0 +1,11 @@
+{
+  "capture": 0,
+  "detection.config_path": "models/yolov3_tiny.cfg",
+  "detection.weights_path": "models/jhgame.weights",
+  "game.fps": 60,
+  "game.is_fullscreen": false,
+  "game.resolution_type": "auto",
+  "game.resolution_x": 1920,
+  "game.resolution_y": 1080,
+  "server.host": "192.168.0.7"
+}
