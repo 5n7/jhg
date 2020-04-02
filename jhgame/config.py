@@ -70,13 +70,13 @@ MENU = {"font_size": int(RESOLUTION_Y / 60 + 12)}
 HELP = {
     "title": "Janken Hockey Game",
     "overview": "This is a hockey game with rock-paper-scissors.",
-    "usage": ["(1) launch server", "(2) launch client", "(3.a) create room", "(3.b) select room", "(4) start",],
+    "usage": ["(1) launch server", "(2) launch client", "(3.a) create room", "(3.b) select room", "(4) start"],
 }
 
 ABOUT = {
     "title": "Janken Hockey Game",
     "organization": ["Tokyo University of Science", "Taniguchi Laboratory"],
-    "developers": ["Kazuhiro Akizawa", "Hiroto Kobayashi", "Shunta Komatsu", "Hiroyuki Yokota",],
+    "developers": ["Kazuhiro Akizawa", "Hiroto Kobayashi", "Shunta Komatsu", "Hiroyuki Yokota"],
 }
 
 # --------------------------------------------------
